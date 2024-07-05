@@ -21,6 +21,7 @@ public class Main {
         reactBootcamp.printSummary();
 
         reactBootcamp.removeCourseByTitle("React Fundamentals");
+        System.out.println("===    ====");
         reactBootcamp.printSummary();
     }
 }
